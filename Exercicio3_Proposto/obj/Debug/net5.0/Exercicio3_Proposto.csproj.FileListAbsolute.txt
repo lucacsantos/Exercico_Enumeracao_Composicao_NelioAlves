@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\ref\Exercicio3_Proposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\bin\Debug\net5.0\Exercicio3_Proposto.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\ref\Exercicio3_Proposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\c#_nelio_udemy\seção9\Exercicios\Exercicio3_Proposto\Exercicio3_Proposto\obj\Debug\net5.0\Exercicio3_Proposto.genruntimeconfig.cache
